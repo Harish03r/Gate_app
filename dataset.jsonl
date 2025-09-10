@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "question": "What is the derivative of sin(x)?",
+    "type": "MCQ",
+    "marks": 1,
+    "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+    "correct": "cos(x)"
+  },
+  {
+    "id": 2,
+    "question": "If A = [1 2; 3 4], what is det(A)?",
+    "type": "NAT",
+    "marks": 2,
+    "correct": "-2"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a sorting algorithm?",
+    "type": "MCQ",
+    "marks": 1,
+    "options": ["Merge Sort", "Quick Sort", "Dijkstra", "Heap Sort"],
+    "correct": "Dijkstra"
+  },
+  {
+    "id": 4,
+    "question": "The Laplace transform of δ(t) is ____.",
+    "type": "NAT",
+    "marks": 2,
+    "correct": "1"
+  },
+  {
+    "id": 5,
+    "question": "In a MOSFET, the region where it behaves as a constant current source is called?",
+    "type": "MCQ",
+    "marks": 2,
+    "options": ["Cutoff", "Triode", "Saturation", "Subthreshold"],
+    "correct": "Saturation"
+  },
+  {
+    "id": 6,
+    "question": "A fair die is rolled. What is the probability of getting a number greater than 4?",
+    "type": "MCQ",
+    "marks": 1,
+    "options": ["1/2", "1/3", "2/3", "1/6"],
+    "correct": "1/3"
+  },
+  {
+    "id": 7,
+    "question": "Find the Fourier transform of cos(2πf₀t).",
+    "type": "NAT",
+    "marks": 2,
+    "correct": "δ(f-f0)+δ(f+f0)"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a regular language?",
+    "type": "MCQ",
+    "marks": 2,
+    "options": ["{a^n b^n | n>0}", "{a^n b^m | n,m>=0}", "{a^p | p is prime}", "{a^n b^n c^n | n>0}"],
+    "correct": "{a^n b^m | n,m>=0}"
+  },
+  {
+    "id": 9,
+    "question": "Which modulation technique has the highest noise immunity?",
+    "type": "MCQ",
+    "marks": 2,
+    "options": ["AM", "FM", "DSB-SC", "ASK"],
+    "correct": "FM"
+  },
+  {
+    "id": 10,
+    "question": "If 2x + 3 = 11, find x.",
+    "type": "NAT",
+    "marks": 1,
+    "correct": "4"
+  }
+]
